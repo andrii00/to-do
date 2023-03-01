@@ -1,0 +1,23 @@
+.form-container {
+  width: 200px;
+  height: 115px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.error-description {
+  font-size: 10px;
+  text-align: left;
+  color: red;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+.title-input {
+  border: 1px solid red;
+}
+.description-input {
+  border: 1px solid red;
+}
